@@ -1,4 +1,4 @@
-//求10以内的所有素数
+//求100以内的所有素数
 public class Example3_14
 {
 	public static void main(String[] args)
